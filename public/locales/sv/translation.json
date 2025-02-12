@@ -347,4 +347,55 @@
       }
     }
   }
+  "products": {
+    "title": "Bygg med tillförsikt",
+    "description": "Enterprise-anpassad AI-infrastruktur designad för europeiska företag",
+    "serverless": {
+      "title": "Serverless Inference",
+      "description": "Få tillgång till kraftfulla AI-modeller genom vårt enkla API",
+      "features": {
+        "openLLMs": "Använd populära Open LLMs",
+        "compatibility": "OpenAI-kompatibelt API",
+        "pricing": "Betala per användning"
+      }
+    },
+    "dedicated": {
+      "title": "Dedikerad Inference",
+      "description": "Kör dina egna modeller på dedikerad hårdvara",
+      "features": {
+        "ownModels": "Driftsätt anpassade modeller",
+        "capacity": "Dedikerade resurser",
+        "scaling": "Produktionsanpassad skalning"
+      }
+    },
+    "platform": {
+      "title": "Komplett Plattform",
+      "description": "Allt du behöver för att bygga AI-applikationer",
+      "features": {
+        "gitops": "GitOps-arbetsflöden",
+        "monitoring": "Avancerad övervakning",
+        "databases": "Hanterade databaser"
+      }
+    },
+    "exploreMore": "Utforska alla produkter"
+  },
+  "whyBerget": {
+    "title": "Varför välja Berget",
+    "description": "Byggd för europeiska företag som behöver säker, regelefterlevande AI-infrastruktur",
+    "features": {
+      "european": {
+        "title": "Europeisk Innovation",
+        "description": "Byggd och driven i Europa, för europeiska företag"
+      },
+      "security": {
+        "title": "Enterprise-säkerhet",
+        "description": "Banksäkerhet och regelefterlevnad inbyggt"
+      },
+      "sustainability": {
+        "title": "Hållbar Infrastruktur",
+        "description": "100% förnybar energi och cirkulär hårdvara"
+      }
+    },
+    "discoverMore": "Upptäck Mer"
+  },
 }

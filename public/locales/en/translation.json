@@ -288,28 +288,6 @@
       }
     }
   },
-  "networkConnectivity": {
-    "title": "Secure Network Infrastructure",
-    "description": "Enterprise-grade connectivity with built-in security and compliance.",
-    "dataLocation": {
-      "title": "All Data Stays Within EU",
-      "description": "With our inference services, your data never leaves the EU, or even our data center. No data - such as prompts and our AI responses - is stored and cannot be accessed by anyone but yourself."
-    },
-    "features": {
-      "directConnect": {
-        "title": "Direct Connection",
-        "description": "Connect securely via VPN, AWS Direct Connect or Azure ExpressRoute for optimal performance."
-      },
-      "compliance": {
-        "title": "Compliance",
-        "description": "Simplified compliance with EU regulations like EU AI Act, GDPR, Nis-2 and Dora."
-      },
-      "security": {
-        "title": "Enterprise Security",
-        "description": "End-to-end encryption, access control and comprehensive audit logging."
-      }
-    }
-  },
   "blog": {
     "title": "Blog",
     "description": "Latest news and insights from the Berget team",
@@ -346,4 +324,55 @@
       }
     }
   }
+  "products": {
+    "title": "Build with Confidence",
+    "description": "Enterprise-grade AI infrastructure designed for European businesses",
+    "serverless": {
+      "title": "Serverless Inference",
+      "description": "Access powerful AI models through our simple API",
+      "features": {
+        "openLLMs": "Use popular Open LLMs",
+        "compatibility": "OpenAI-compatible API",
+        "pricing": "Pay as you go pricing"
+      }
+    },
+    "dedicated": {
+      "title": "Dedicated Inference",
+      "description": "Run your own models on dedicated hardware",
+      "features": {
+        "ownModels": "Deploy custom models",
+        "capacity": "Dedicated resources",
+        "scaling": "Production-grade scaling"
+      }
+    },
+    "platform": {
+      "title": "Complete Platform",
+      "description": "Everything you need to build AI applications",
+      "features": {
+        "gitops": "GitOps workflows",
+        "monitoring": "Advanced monitoring",
+        "databases": "Managed databases"
+      }
+    },
+    "exploreMore": "Explore All Products"
+  },
+  "whyBerget": {
+    "title": "Why Choose Berget",
+    "description": "Built for European businesses who need secure, compliant AI infrastructure",
+    "features": {
+      "european": {
+        "title": "European Innovation",
+        "description": "Built and operated in Europe, for European businesses"
+      },
+      "security": {
+        "title": "Enterprise Security",
+        "description": "Bank-grade security and compliance built-in"
+      },
+      "sustainability": {
+        "title": "Sustainable Infrastructure",
+        "description": "100% renewable energy and circular hardware"
+      }
+    },
+    "discoverMore": "Discover More"
+  },
 }
