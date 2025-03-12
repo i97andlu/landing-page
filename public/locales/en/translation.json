@@ -457,5 +457,13 @@
       }
     },
     "discoverMore": "Discover More"
+  },
+  "saas": {
+    "hero" : {
+      "title": "Easy answers to hard questions",
+      "description" : "Let your developer teams easily build AI products, while being on top of critical data and regulatory requirements from your customers",
+      "startBuilding" : "Start Buildling Today",
+      "bookDemo" : "Get in touch"
+    }
   }
 }
